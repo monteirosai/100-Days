@@ -1,0 +1,14 @@
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.AssemblyInfoInputs.cache
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.AssemblyInfo.cs
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.csproj.CoreCompileInputs.cache
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\bin\Debug\net8.0\01.exe
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\bin\Debug\net8.0\01.deps.json
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\bin\Debug\net8.0\01.runtimeconfig.json
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\bin\Debug\net8.0\01.dll
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\bin\Debug\net8.0\01.pdb
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.dll
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\refint\01.dll
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.pdb
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\01.genruntimeconfig.cache
+C:\Users\saisn\OneDrive\Documentos\Random Projects\100days\01\obj\Debug\net8.0\ref\01.dll
